@@ -1,0 +1,17 @@
+Curso Angular I 
+
+Anota��es:
+
+Pad�o MVC para cliente side
+
+Ações necessárias para utilizar o angular.
+Inportar script do angular na view.
+
+
+
+angular expressions - s�o os atributos passsados do angular para view: 
+Diretivas: diretivas são os metodos do angular na view. Ex: ng-app, ng-repeat
+dataBiding para view do controller 
+
+
+$http - faz requisições Ajax do angular
