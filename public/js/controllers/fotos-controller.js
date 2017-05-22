@@ -18,6 +18,6 @@ angular.module('alurapic').controller('FotosController', function ($scope, $http
         })
         .error(function(error){
             console.log(error);
-        })
-
+        });
+    
 });
