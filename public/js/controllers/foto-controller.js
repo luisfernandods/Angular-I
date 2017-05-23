@@ -14,6 +14,5 @@ angular.module('alurapic').controller('FotoController', function ($scope, $http)
                     $scope.mensagem = "Não foi possível cadastrar a foto";
                 });
         }
-    };
-
+    }
 });
